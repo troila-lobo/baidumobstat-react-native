@@ -1,0 +1,28 @@
+{
+  "name": "@troila/baidumobstat-react-native",
+  "version": "1.1.7",
+  "description": "React Native Plugin for BaiduMobStat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "BaiduMobStat"
+  ],
+  "author": "baidumobstat",
+  "license": "ISC",
+  "dependencies": {},
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troila-lobo/baidumobstat-react-native.git"
+  },
+  "bugs": {
+    "url": "https://github.com/troila-lobo/baidumobstat-react-native/issues"
+  },
+  "homepage": "https://github.com/troila-lobo/baidumobstat-react-native#readme"
+}
